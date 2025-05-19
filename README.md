@@ -4,7 +4,7 @@ This project is an automated system that uses Visual Language Model (VLM) techno
 
 ---
 
-<h3> 👪 Team Members </h3>
+### 👪 Team Members
 김태민|고혜정|서준혁
 :-:|:-:|:-:|
 <img src='https://avatars.githubusercontent.com/u/96530685?v=4' height=130 width=130></img>|<img src='https://avatars.githubusercontent.com/u/190566247?v=4' height=130 width=130></img>|<img src='https://avatars.githubusercontent.com/u/105350096?v=4' height=130 width=130></img>|
