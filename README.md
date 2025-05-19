@@ -13,8 +13,6 @@ This project is an automated system that uses Visual Language Model (VLM) techno
 
 ---
 
----
-
 <h3> ⚙️ Architecture </h3>
 <table>
   <tr>
